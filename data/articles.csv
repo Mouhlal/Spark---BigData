@@ -1,0 +1,9 @@
+id_article,nom,categorie,prix,stock
+1,Telephone,Electronique,4500,5
+2,Casque,Electronique,350,15
+3,Clavier,Informatique,250,0
+4,Table,Mobilier,1800,8
+5,Chaise,Mobilier,700,20
+6,Stylo,Papeterie,10,100
+7,Imprimante,Informatique,2200,4
+8,Cahier,Papeterie,25,50

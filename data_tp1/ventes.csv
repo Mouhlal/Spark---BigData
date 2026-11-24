@@ -1,0 +1,4 @@
+id,date,ville,produit,quantite,prix
+1,2025-01-05,Casablanca,Laptop,2,9500
+2,2025-01-06,Rabat,Telephone,5,3200
+12,ligne_corrompue

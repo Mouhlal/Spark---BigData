@@ -1,0 +1,9 @@
+id_produit,nom,categorie,prix,stock
+1,Laptop,Informatique,8500,5
+2,Souris,Informatique,150,40
+3,Clavier,Informatique,300,0
+4,Chaise,Mobilier,900,12
+5,Bureau,Mobilier,2200,3
+6,Stylo,Papeterie,5,300
+7,Cahier,Papeterie,15,120
+8,Écran,Informatique,2500,8
